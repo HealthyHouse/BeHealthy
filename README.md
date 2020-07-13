@@ -72,9 +72,9 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 
 
 
-<img src="https://user-images.githubusercontent.com/25588116/86388270-1c1bb580-bcb2-11ea-8a9f-77c8d1e0c9b3.jpg" height="600" width="300">
+<img src="https://user-images.githubusercontent.com/25588116/86388270-1c1bb580-bcb2-11ea-8a9f-77c8d1e0c9b3.jpg" height="400" width="200">
 
-<img src="https://user-images.githubusercontent.com/25588116/86388276-1faf3c80-bcb2-11ea-97b3-b27883856fbb.jpg" height="600" width="300">
+<img src="https://user-images.githubusercontent.com/25588116/86388276-1faf3c80-bcb2-11ea-97b3-b27883856fbb.jpg" height="400" width="200">
 
 
 
